@@ -94,15 +94,15 @@
     Вывод на рабочий принтер иформации о состоянии счета
   - Информация о конкретном наряд-заказе
   
-    <img src="screen_unit.jpg" width="300">
+    <!--img src="screen_unit.jpg" width="300"-->
   - Информация о счете
  
-    <img src="screen_invoice_1.jpg" width="300">
-    <img src="screen_invoice_2.jpg" width="300">
+    <!--img src="screen_invoice_1.jpg" width="300"-->
+    <!--img src="screen_invoice_2.jpg" width="300"-->
   - Прием смены
   - Состояние загрузки цеха
  
-    <img src="screen_state.jpg" width="300"> 
+    <!--img src="screen_state.jpg" width="300"--> 
   - Обновление используемой краски
   - Сообщение на панель сменного мастера
   - Выдача фурнитуры
@@ -124,7 +124,7 @@
     Данный интерфейс интегрирован с Системой Информирования - позволяет начальнику производства
         в режиме реального времени задавать приоритеты для определенных счетов.
    
-    <img src="screen_masterdesk.jpg">
+    <!--img src="screen_masterdesk.jpg"-->
     
         Реализация:
          - Python 3.10
